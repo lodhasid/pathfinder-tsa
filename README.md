@@ -6,7 +6,7 @@ Pathfinder is a mobile navigation app designed to make indoor spaces truly acces
 
 1. **Clone the repository**
    ```bash
-   git clone github.com/lodhasid/pathfinder-tsa.git
+   git clone https://github.com/lodhasid/pathfinder-tsa.git
    ```
 
 2. **Install dependencies**
